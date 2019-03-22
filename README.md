@@ -9,23 +9,23 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 The abbreviations of the Professional Overwatch teams are:
--Atlanta Reign	
-Boston Uprising	
-Florida Mayhem	
-Houston Outlaws	
-London Spitfire	
-New York Excelsior	
-Paris Eternal	
-Philadelphia Fusion	
-Toronto Defiant
-Washington Justice	
-Pacific Division	Chengdu Hunters	
-Dallas Fuel
-Guangzhou Charge	
-Hangzhou Spark]
-Los Angeles Gladiators	
-Los Angeles Valiant	
-San Francisco Shock	
-Seoul Dynasty	
-Shanghai Dragons	
-Vancouver Titans	
+-Atlanta Reign,	
+Boston Uprising,	
+Florida Mayhem,
+Houston Outlaws,	
+London Spitfire,	
+New York Excelsior,	
+Paris Eternal,	
+Philadelphia Fusion,	
+Toronto Defiant,
+Washington Justice,	
+Chengdu Hunters,
+Dallas Fuel,
+Guangzhou Charge,
+Hangzhou Spark,
+Los Angeles Gladiators,
+Los Angeles Valiant,
+San Francisco Shock,
+Seoul Dynasty,
+Shanghai Dragons,
+Vancouver Titans,
