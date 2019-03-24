@@ -1,6 +1,6 @@
 # Overwatch-League
 
-This project is to display the data between the Professional Overwatch League teams and how they perform when they are either on the Home team or the Away team. 
+This project is to display the data of the Professional Overwatch League teams and how they perform when they are either on the Home team or the Away team. From the data we will be able to see exactly how well each team is performing compared to the others and be able to see that difference shown in two different percentage pie charts and in a side-by-side bar chart.
 
 import sqlite3 
 import csv
